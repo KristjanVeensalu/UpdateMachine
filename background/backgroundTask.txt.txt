@@ -1,0 +1,2 @@
+"C:\Users\GurenZify\AppData\Local\Programs\Python\Python38-32\python.exe"
+"C:\Users\GurenZify\Desktop\Computer\Projects\UpdateMachine\functionality\main.py"
